@@ -146,6 +146,7 @@ INSERT INTO `sys_role_menu` VALUES (159, 10, 36);
 INSERT INTO `sys_role_menu` VALUES (160, 10, 1);
 INSERT INTO `sys_role_menu` VALUES (161, 10, 14);
 
+
 -- ----------------------------
 -- Table structure for sys_user
 -- ----------------------------
